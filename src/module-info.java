@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author inaci
+ *
+ */
+module ProjetoJogoXadrez {
+}
